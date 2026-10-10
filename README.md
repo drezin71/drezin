@@ -44,6 +44,4 @@ Gosto de entender como as coisas funcionam por trás das aplicações, desde a l
 - Matemática e computação.
 
 
-<p align="center">
-  <i>"The quieter you become, the more you are able to hear."</i>
-</p>
+

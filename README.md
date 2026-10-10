@@ -12,7 +12,7 @@ Gosto de entender como as coisas funcionam por trás das aplicações, desde a l
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" />
-  <img src="https://cdn.simpleicons.org/c/00599C" width="50" height="50" alt="C" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/c/c-original.svg" width="50" height="50" alt="C" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" />
 </p>
